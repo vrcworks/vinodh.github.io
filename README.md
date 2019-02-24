@@ -1,2 +1,2 @@
-# vinodhdoniv.github.io
-gate-ies
+# vrc-vinodh.github.io
+VRC Vinodh
